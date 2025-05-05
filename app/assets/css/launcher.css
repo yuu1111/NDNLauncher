@@ -3094,7 +3094,8 @@ input:checked + .toggleSwitchSlider:before {
 /* Settings icon colors. */
 #settingsSVG {
     stroke: #ffffff;
-    height: 15px;
+    height: 35px;
+    width: 45px;
 }
 .mediaButton:hover #settingsSVG,
 .mediaButton:focus #settingsSVG,
